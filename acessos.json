@@ -1,0 +1,17 @@
+{
+ "versao": 1,
+ "usuarios": {
+  "b12f42ce083f83a874672f4c23f2e54a681774bab558b447119e9610e14a4b9a": {
+   "sal": "euqWvB0/xFmqV4Q5OiNIcQ==",
+   "iter": 310000,
+   "iv": "ov4hfCn7nUG00TsC",
+   "k": "5AOpkKDyDiQflENuqSVTtfHQF0kw/4udFSceX5fyIwqrvonkVRtxA+CCVPGPGBMS"
+  },
+  "7656fb186cb6921b12316c8b2e9e6a1cbd6cde132474b5af64f7ee1c0cfc2770": {
+   "sal": "nLnSQQoPXnMLeUxO5nDdzA==",
+   "iter": 310000,
+   "iv": "wfVZwVUTDD/ogDS4",
+   "k": "zIx/7I5wPRk6r7Hf5jWW/SV1HXkEx0Hco068k0yQ972sozSp+A5dath60Xj/e7Cx"
+  }
+ }
+}
